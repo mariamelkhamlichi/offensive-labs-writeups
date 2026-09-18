@@ -20,15 +20,13 @@ labs/
         ├── 01-catalogue.jpeg
         ├── 02-filtre-categorie.jpeg
         └── 03-lab-resolu.jpeg
-templates/
-└── writeup-template.md
 ```
 
 ## Contenu des writeups
 
 Chaque lab présente l'objectif, le point d'entrée, les étapes visibles dans les captures, le fonctionnement du payload, le résultat et les mesures de correction. Les explications reconstruites sont distinguées des observations directes.
 
-Pour ajouter un lab, utiliser le [modèle de writeup](templates/writeup-template.md), placer ses captures dans son dossier et ajouter une ligne au tableau ci-dessus.
+Pour ajouter un lab, créer son dossier dans `labs/` avec un README et ses captures, puis ajouter une ligne au tableau ci-dessus.
 
 ## Sources et captures
 
