@@ -1,6 +1,6 @@
-# Lab 01 — Injection SQL : récupération de données cachées
+# Lab 001 — Injection SQL : récupération de données cachées
 
-[← Retour à l'index](../../README.md)
+[← Retour à l'index](../README.md)
 
 | Élément | Détail |
 | --- | --- |
